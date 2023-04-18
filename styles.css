@@ -2,7 +2,8 @@
 	color:white;
 	display:flex;
 	flex-wrap:wrap;
-	justify-content:space-around;
+	justify-content:center;
+	gap:10px;
 }
 .item-1{background-color:blue;padding:10px;}
 .item-2{background-color:red;padding:10px;}
